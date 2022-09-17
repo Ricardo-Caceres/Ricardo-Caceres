@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Ricardo-Caceres
+- 👋 Hi, My Name @Ricardo-Caceres I'm from Mexico City
+- 💻 I'm Front-end Developer with JavaScript technologies like React.js, Next.js.
+- ⏳ 3 Years of experience
 - 👀 I’m interested in JavaScript, Phyton, IA, Maching Learning, Arduino
-- 🌱 I’m currently learning React.js, Node.js, Phyton
+- 🌱 I’m currently learning Medusa.js, Node.js, Phyton
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me: rick.caceres95@gmail.com
 
