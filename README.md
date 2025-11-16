@@ -1,4 +1,4 @@
-- 👋 Hi, My Name @Ricardo-Caceres I'm from Mexico City
+- 👋 Hi, My Name @Ricardo-Caceres I'm from Mexico but I'm living in Poland
 - 💻 I'm Front-end Developer with JavaScript technologies like React.js, Next.js.
 - ⏳ 3 Years of experience
 - 👀 I’m interested in JavaScript, Phyton, IA, Maching Learning, Arduino
